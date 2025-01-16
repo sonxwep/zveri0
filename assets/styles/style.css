@@ -1,0 +1,35 @@
+body{
+    background-image: url(../img/fon.jpg!d);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+    width: 1200px;
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: end; */
+}
+.dom{
+    height: 620px;
+    width: 800px;
+}
+.volk, .popug{
+    height: 250px;
+    width: 250px;
+}
+.volk:hover{
+    height: 300px;
+    width: 280px;   
+}
+.popug:hover{
+    height: 280px;
+    width: 280px;   
+}
+
+.zveri{
+    display: flex;
+    /* flex-direction: column; */
+    gap: 200px;
+    margin-top: 70px;
+    
+}
+
